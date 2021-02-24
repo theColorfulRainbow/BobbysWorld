@@ -1,3 +1,8 @@
+# Info
+- this is simply a copy of the original project hosted here: https://github.com/robertasn/bobbys-world.git
+- this is simply to have a copy on my persoanl repo for quick access
+- full credit should be given to the other colaborators found in the link above
+# Original Readme
 ***Welcome to BOBBY's World***
 
 - This is a hackathon project at the HackTheBurgh 6th edition.
